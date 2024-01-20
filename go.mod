@@ -1,10 +1,9 @@
 module 154.pages.dev/google
 
-go 1.21.0
+go 1.19
 
 require (
 	154.pages.dev/encoding v1.15.6
-	154.pages.dev/log v1.1.2
 	154.pages.dev/protobuf v1.0.3
 )
 
